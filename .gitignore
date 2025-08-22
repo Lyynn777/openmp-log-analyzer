@@ -1,1 +1,17 @@
+# Ignore compiled binaries
+bin/
+*.exe
+*.o
+*.out
+
+# Ignore logs
+data/*.log
+
+# Ignore build artifacts
+*.obj
+*.pdb
+
+# Ignore system files
+.DS_Store
+Thumbs.db
 data/big.log
