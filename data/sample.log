@@ -1,0 +1,6 @@
+INFO: System started
+ERROR: Disk full
+INFO: Retrying
+ERROR: Network timeout
+WARNING: High memory usage
+INFO: Done
