@@ -1,5 +1,11 @@
 ---
 # OpenMP Log Analyzer
+![C](https://img.shields.io/badge/language-C-blue?logo=c)
+![OpenMP](https://img.shields.io/badge/OpenMP-Parallel%20Computing-yellow)
+![Build](https://img.shields.io/badge/build-Makefile-green)
+![OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows-lightgrey)
+![GitHub](https://img.shields.io/badge/version-1.0-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 A **parallel log file analyzer** written in **C + OpenMP**.  
 It counts different types of log messages (`ERROR`, `WARNING`, `INFO`, `DEBUG`) and shows **execution time** and **throughput** using multiple threads. Great for learning parallel programming and analyzing large log files efficiently.
@@ -80,3 +86,4 @@ Shows \~272 MB/s processing using 4 threads.
 * **Performance scaling graphs** (threads vs. throughput).
 * Unit tests for different log formats.
 ---
+
