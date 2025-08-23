@@ -1,4 +1,4 @@
----
+
 # OpenMP Log Analyzer
 ![C](https://img.shields.io/badge/language-C-blue?logo=c)
 ![OpenMP](https://img.shields.io/badge/OpenMP-Parallel%20Computing-yellow)
@@ -86,4 +86,5 @@ Shows \~272 MB/s processing using 4 threads.
 * **Performance scaling graphs** (threads vs. throughput).
 * Unit tests for different log formats.
 ---
+
 
