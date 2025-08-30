@@ -69,6 +69,10 @@ Time: 0.438000 s | Throughput: 272.17 MB/s
 
 Shows \~272 MB/s processing using 4 threads.
 
+Here’s an example of the program output:
+
+![Sample Output](data/performance_throughput.png)
+![Sample Output](data/performance_time.png)
 ---
 
 ## Why This Project?
@@ -86,5 +90,6 @@ Shows \~272 MB/s processing using 4 threads.
 * **Performance scaling graphs** (threads vs. throughput).
 * Unit tests for different log formats.
 ---
+
 
 
